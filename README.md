@@ -48,7 +48,7 @@
   </tr>
   </tr>
     <td>🧩 Микросервисы</td>
-    <td><progress value="0" max="100"></progress> 0%</td>
+    <td><progress value="0" max="100"></progress> 99%</td>
     <td>⭐ Изучаю</td>
   </tr>
   <tr>
